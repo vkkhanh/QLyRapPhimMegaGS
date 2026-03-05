@@ -65,7 +65,7 @@ Hệ thống được phân tích và thiết kế bằng:
 
 ## 1️⃣ Mở dự án
 
-## 2️⃣ Attach cơ sở dữ liệu (file `QuanLyRapPhim.mdf`)
+## 2️⃣ Restore cơ sở dữ liệu (file QuanLyRapPhim.bak)
 
 ## 3️⃣ Cấu hình chuỗi kết nối
 
